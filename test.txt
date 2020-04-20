@@ -1,1 +1,1 @@
-remotee add
+remotee add and remove
